@@ -2,7 +2,7 @@
 It is my first graphic project, which I developed for my learning course at UNIT.
 It is a simple 3D height-map renderer.
 
-<img align = "center" src = "fdf.png" width = "100%"/>
+<img align = "center" src = "fdf.png" />
 
 ### Subject: [fdf.en.pdf][1]
 ### Maps: [test_maps.zip][2]
